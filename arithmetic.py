@@ -1,3 +1,5 @@
+#arithmetic operation
+
 num1 = int(input("enter the number:"))
 num2 = int(input("enter another number:"))
 
@@ -16,3 +18,4 @@ print("the addition of two number is:",sum)
 print("the subtraction of two numbers:",sub)
 print("the multiplication of two number is:",mul)
 print("the division of two numbers:",div)
+
